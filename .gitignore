@@ -30,3 +30,6 @@ apiMedVoll/src/main/resources/application-test.properties
 
 # DB
 apiMedVoll/src/main/resources/db
+
+# Configurações de cors
+apiMedVoll/src/main/java/med/voll/api/config
