@@ -1,4 +1,4 @@
-# ClinicaMedica<h1 align="center">
+<h1 align="center">
   Clinica médica
 </h1>
 
