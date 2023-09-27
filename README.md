@@ -12,7 +12,7 @@
 <h2 id="tecnologias"> ⚙ Tecnologias</h2>
 
   <ul>
-      <li><a style="font-family: Segoe UI; font-size: 17px" href="https://spring.io/projects/spring-framework">Spring</a></li>
+      <li><a style="font-family: Segoe UI; font-size: 17px" href="https://spring.io/projects/spring-boot">Springboot</a></li>
       <li><a style="font-family: Segoe UI; font-size: 17px" href="https://www.postgresql.org/">PostgreSQL</a></li>
       <li><a style="font-family: Segoe UI; font-size: 17px" href="https://jwt.io/">JWT Token</a></li>
       <li><a style="font-family: Segoe UI; font-size: 17px" href="https://springdoc.org/">SpringDoc</a></li>
